@@ -1,9 +1,9 @@
-#include<iostream>
+#include<iostream>//INCLUDING STANDARD LIBRARY IN THE PROGRAM
 using namespace std;
-int main ()
+int main ()//MAIN FUNCTION
 {
-cout<<"Hello Github";
-cout<<"Prakhar";
+cout<<"Hello Github";//DISPLAYING IT TO CONSOLE
+cout<<"Prakhar";//DISPLAYING IT TO TO DISPLAY
 return 0;
 }
 
